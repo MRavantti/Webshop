@@ -32,7 +32,7 @@ In this project, the assignment was to create an E-Commerce. Created with `Visua
 ```sh
 $ git clone https://github.com/MRavantti/E-Commerce-Assignment.git
 ```
-- start the `E-Commerce.csproj` with `Visual Studio`
+- start the `E-Commerce.sln` with `Visual Studio`
 
 - with console of your choosing go to the `e-commerce_client` directory and use the command `npm start`.
 which should start the web-browser with the url similar to `http://localhost:3000`
